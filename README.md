@@ -43,8 +43,8 @@ SmartNotesManager/
 6. Add to Tomcat Server and Run
 
 ## Screenshots
-<img width="700" height="500" alt="Screenshot 2026-05-16 114548" src="https://github.com/user-attachments/assets/9c38dc5f-ea9a-4ea1-a2ca-52c4212f38fd" />
-<img width="700" height="500" alt="Screenshot 2026-05-16 114601" src="https://github.com/user-attachments/assets/b46ef83b-a45d-4131-a288-9d9a3f0a05f7" />
-<img width="1000" height="527" alt="Screenshot 2026-05-16 120333" src="https://github.com/user-attachments/assets/9ec8a216-3d75-47a3-b032-c43d6035188f" />
+<img width="700" height="400" alt="Screenshot 2026-05-16 114548" src="https://github.com/user-attachments/assets/9c38dc5f-ea9a-4ea1-a2ca-52c4212f38fd" />
+<img width="700" height="400" alt="Screenshot 2026-05-16 114601" src="https://github.com/user-attachments/assets/b46ef83b-a45d-4131-a288-9d9a3f0a05f7" />
+<img width="1000" height="327" alt="Screenshot 2026-05-16 120333" src="https://github.com/user-attachments/assets/9ec8a216-3d75-47a3-b032-c43d6035188f" />
 
 
