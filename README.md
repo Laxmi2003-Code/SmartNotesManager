@@ -42,4 +42,8 @@ SmartNotesManager/
 5. Import project into Eclipse as Dynamic Web Project
 6. Add to Tomcat Server and Run
 
+## Screenshots
+<img width="1900" height="627" alt="Screenshot 2026-05-16 120333" src="https://github.com/user-attachments/assets/3cb015c5-1ed5-4d4c-a779-4f00bc38f375" />
+<img width="939" height="691" alt="Screenshot 2026-05-16 114601" src="https://github.com/user-attachments/assets/4fa866bd-9393-4db5-859e-de4a7b785c45" />
+<img width="932" height="716" alt="Screenshot 2026-05-16 114548" src="https://github.com/user-attachments/assets/c7f374d7-b183-4618-a51a-7993b1f2f6e5" />
 
