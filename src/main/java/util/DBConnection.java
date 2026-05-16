@@ -7,7 +7,7 @@ public class DBConnection {
 	public static Connection getConnection() {
 		try {
 	     Class.forName("com.mysql.cj.jdbc.Driver");
-	     con = DriverManager.getConnection("jdbc:mysql://localhost:3306/notes_manager","root","Lakshmi@1234");
+	     con = DriverManager.getConnection("jdbc:mysql://localhost:3306/notes_manager","root","YOUR_PASSWORD_HERE");
 	     System.out.println("Database Connected");
 		}catch(Exception e) {
 		  e.printStackTrace();	
